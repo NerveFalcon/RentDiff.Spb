@@ -8,6 +8,9 @@
     "jsModuleRuntime": {
       "dotnet.runtime.8.0.23.9f5umm3qwn.js": "sha256-TGUqQm2/C+r+yZ5BCjd72qyLw9wv0KPFKzKXk/giiyY="
     },
+    "runtime": {
+      "dotnet.runtime.8.0.23.9f5umm3qwn.js": "sha256-TGUqQm2/C+r+yZ5BCjd72qyLw9wv0KPFKzKXk/giiyY="
+    },
     "wasmNative": {
       "dotnet.native.wasm": "sha256-fLfgrTbENzecdDDL9h0M2N5b5hpzCT9Lb/+k1Av37yU="
     },
